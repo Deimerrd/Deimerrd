@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hola mi nombre es Deimer, frontend developer from Cartagenam colombia co.
+I'm  Deimer, frontend developer from Cartagenam colombia co.
 <!--
 **Deimerrd/Deimerrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
